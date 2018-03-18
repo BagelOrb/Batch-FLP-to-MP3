@@ -1,6 +1,10 @@
 Batch-FLP-to-MP3
 ================
 
+I copied this script from aomebody else and changed it a little.
+
+Below the original README:
+
 I wrote this script to help me save time while exporting my album [Bringing Down The Fairy Tale](http://bdtft.com). Hopefully it helps you as well :)
 
 This is an AutoHotkey script that allows for the exporting of multiple FLP files in Fl Studio to MP3.
